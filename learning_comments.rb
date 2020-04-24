@@ -4,7 +4,7 @@
 # Perform a constant expression evaluation
 3
 # Assign constant 3 to bare-word variable triangle_sides
-`trangle_sides`
+#`trangle_sides`
 
 # From the Three Dog Night song: "Joy to the Wold (Jeremiah was a Bullfrog)"
 puts "Joy to the world"
