@@ -1,3 +1,4 @@
 # Perform a constant expression evaluation
 3
-# Assign constant 3 to bare-word variable triangle_sides.
+# Assign constant 3 to bare-word variable triangle_sides
+`trangle_sides`
