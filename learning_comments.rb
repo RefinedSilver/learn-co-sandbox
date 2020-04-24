@@ -1,3 +1,3 @@
-puts "Every line, top to bottom"
-
-# puts "This text is hidden."
+# Perform a constant expression evaluation
+3
+# Assign constant 3 to bare-word variable triangle_sides.
